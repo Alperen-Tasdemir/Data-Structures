@@ -1,0 +1,15 @@
+1-Function to separate odd and even numbers until -1 is entered, placing all odd numbers at the beginning of the list and even numbers at the end
+
+2-Write a C code that adds 100 randomly generated numbers to the list, then sorts all entered numbers in descending order and prints them
+example: 40 52 74 81 97 101 105 210....
+
+3-Write a function that traverses through all nodes in the list, containing hidden student number, name, and age information, printing all student details and counting:
+example: 1- Alperen 19 2210
+	 2- Şengüler 20 2211
+
+4-Write a function that searches the list for a record based on the student's name
+
+5-Write a function that deletes the node following the node containing the searched student name in the list
+
+6-Write a function that prints the record with the longest name in the list
+example: Longest name is: Abdurrahmangazi  Lenght: 15
